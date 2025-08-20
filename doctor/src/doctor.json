@@ -1,0 +1,40 @@
+{
+    "doctors" : [
+  {
+    "name": "Dr. Ayesha Khan",
+    "specialization": "Cardiologist",
+    "chamber": {
+      "location": "Mumbai",
+      "address": "123 Heart Street",
+      "state": "Maharashtra"
+    }
+  },
+  {
+    "name": "Dr. Ravi Patel",
+    "specialization": "Dermatologist",
+    "chamber": {
+      "location": "Ahmedabad",
+      "address": "456 Skin Avenue",
+      "state": "Gujarat"
+    }
+  },
+  {
+    "name": "Dr. TulsiDas Khan",
+    "specialization": "Neurosurgeon",
+    "chamber": {
+      "location": "Indore",
+      "address": "Bali street",
+      "state": "Madhya Pradesh"
+    }
+  },
+  {
+    "name": "Dr. Narendra Singh",
+    "specialization": "Orthopedic",
+    "chamber": {
+      "location": "Coimbatore",
+      "address": "Prozone",
+      "state": "Tamil Nadu"
+    }
+  }
+]
+}
